@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 
-
+<div align="center">
+  
   ![snake gif](https://github.com/SandhanuDulmeth/SandhanuDulmeth/blob/output/github-snake-dark.svg)
-
+</div>
 
 
 
