@@ -24,7 +24,7 @@ Always learning and exploring new technologies. Let's connect and build somethin
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandhanu-mendis/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandhanu-mendis)  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
