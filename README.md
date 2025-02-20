@@ -17,7 +17,7 @@ Always learning and exploring new technologies. Let's connect and build somethin
 ## 📈 GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandhanuDulmeth&show_icons=true&theme=radical)](https://github.com/SandhanuDulmeth)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandhanuDulmeth&layout=compact&theme=radical)](https://github.com/SandhanuDulmeth)
+
 
 ---
 
