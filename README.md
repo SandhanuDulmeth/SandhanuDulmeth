@@ -21,15 +21,6 @@ Always learning and exploring new technologies. Let's connect and build somethin
 
 ---
 
-## 🔥 Recent Projects
-
-- **[Project 1](https://github.com/SandhanuDulmeth/project-1)**  
-  Short description of your project. Built with [Tech Stack].
-
-- **[Project 2](https://github.com/SandhanuDulmeth/project-2)**  
-  Another cool project! Uses [Tech Stack].
-
----
 
 ## 📫 Let's Connect
 
