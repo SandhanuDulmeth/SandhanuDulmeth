@@ -1,75 +1,146 @@
-# Hi there 👋 I'm Sandhanu
-
-### 💻 Tech Enthusiast | Full-Stack Developer | Open-Source Contributor
-
-Welcome to my GitHub profile! I'm passionate about  open-source , machine learning.  
-Always learning and exploring new technologies. Let's connect and build something awesome! 🚀
-
----
-
-## 🛠️ Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-## 📈 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandhanuDulmeth&show_icons=true&theme=radical)](https://github.com/SandhanuDulmeth)  
-
-
----
-
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandhanu-mendis)  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-
----
-
-## 💡 Fun Facts
-
-- 🌱 I’m currently learning **Flutter**.
-
-
-
-
-
+<!-- Profile Header -->
 <div align="center">
   
-  ![snake gif](https://github.com/SandhanuDulmeth/SandhanuDulmeth/blob/output/github-snake-dark.svg)
+  <h1>Hi there, I'm <b>Sandhanu</b> 👋</h1>
+
+  <!-- Safe Typing SVG (encoded, no unsupported params) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=66F7F1&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%E2%80%A2+Java+%26+Spring+Boot+%E2%80%A2+React+%26+Angular;Always+learning%2C+building%2C+and+shipping+%F0%9F%9A%80" alt="Typing SVG intro" />
+
+  <br/>
+
+  <!-- Quick Links -->
+  <a href="https://linkedin.com/in/sandhanu-mendis">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:sandhanudulmeth@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EB4335?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <!-- TODO: Replace with your real portfolio URL -->
+  <a href="https://your-portfolio.com">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?logo=google-chrome&logoColor=white&style=for-the-badge" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Visitor Badge -->
+  <img src="https://komarev.com/ghpvc/?username=SandhanuDulmeth&style=flat-square&color=blueviolet" alt="Profile views" />
 </div>
 
+---
 
+## About me
+- 🛠️ Full‑stack developer building real-world apps
+- ☕ Backend: Java, Spring Boot | 🖥️ Desktop: JavaFX
+- ⚛️ Frontend: React (Vite) and Angular
+- 🧠 Also into Python and practical ML
+- 🌱 Currently learning: <b>Flutter</b>
+- 🤝 Open to collaborating on impactful projects
 
+## Tech stack (from my repos)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,vite,angular,js,ts,python,html,css,git&perline=11" alt="Tech stack icons" />
+</p>
 
+---
 
+## Featured projects
+<div align="center">
 
+  <!-- Row 1 -->
+  <a href="https://github.com/SandhanuDulmeth/Inventory_System_Frontend-React-Vite">
+    <img height="132" alt="Inventory System Frontend (React/Vite)" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=Inventory_System_Frontend-React-Vite&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/SandhanuDulmeth/Inventory_System_BackEnd-SpringBoot">
+    <img height="132" alt="Inventory System Backend (Spring Boot)" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=Inventory_System_BackEnd-SpringBoot&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/SandhanuDulmeth/Mos-Burger-Front-End-Angular">
+    <img height="132" alt="MOS Burger Frontend (Angular)" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=Mos-Burger-Front-End-Angular&theme=radical&hide_border=true" />
+  </a>
 
+  <!-- Row 2 -->
+  <a href="https://github.com/SandhanuDulmeth/MOS-Burgers-Back-End-SpringBoot">
+    <img height="132" alt="MOS Burgers Backend (Spring Boot)" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=MOS-Burgers-Back-End-SpringBoot&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/SandhanuDulmeth/Hospital-Management-System-JAVAFX">
+    <img height="132" alt="Hospital Management System (JavaFX)" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=Hospital-Management-System-JAVAFX&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/SandhanuDulmeth/maze-runner-GAME">
+    <img height="132" alt="Maze Runner Game (JavaScript)" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=maze-runner-GAME&theme=radical&hide_border=true" />
+  </a>
 
+  <!-- Optional extras: Uncomment to feature more -->
+  <!--
+  <a href="https://github.com/iCET-Computer-Engineering-Technology/EVO-Backend">
+    <img height="132" alt="EVO Backend (Spring Boot)" src="https://github-readme-stats.vercel.app/api/pin/?username=iCET-Computer-Engineering-Technology&repo=EVO-Backend&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/SandhanuDulmeth/Importance-of-DSA-in-programming-python">
+    <img height="132" alt="DSA in Python" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=Importance-of-DSA-in-programming-python&theme=radical&hide_border=true" />
+  </a>
+  -->
 
+</div>
 
+---
 
+## GitHub stats
+<div align="center">
 
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=SandhanuDulmeth&show_icons=true&hide_title=true&theme=radical&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=SandhanuDulmeth&show_icons=true&hide_title=true&theme=default&hide_border=true" 
+      alt="GitHub Stats"
+      height="160"
+    />
+  </picture>
 
-<!--
-**SandhanuDulmeth/SandhanuDulmeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=SandhanuDulmeth&theme=radical&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://streak-stats.demolab.com?user=SandhanuDulmeth&theme=default&hide_border=true" 
+      alt="GitHub Streak"
+      height="160"
+    />
+  </picture>
 
-Here are some ideas to get you started:
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SandhanuDulmeth&layout=compact&theme=radical&hide_border=true&langs_count=8"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandhanuDulmeth&layout=compact&theme=default&hide_border=true&langs_count=8" 
+      alt="Top Languages"
+      height="160"
+    />
+  </picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</div>
+
+---
+
+## Connect
+- 💼 LinkedIn: <a href="https://linkedin.com/in/sandhanu-mendis">linkedin.com/in/sandhanu-mendis</a>
+- ✉️ Email: <a href="mailto:sandhanudulmeth@gmail.com">sandhanudulmeth@gmail.com</a>
+
+---
+
+<!-- Contribution Snake (auto-updates from workflow) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandhanuDulmeth/SandhanuDulmeth/output/github-snake-dark.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SandhanuDulmeth/SandhanuDulmeth/output/github-snake.svg" />
+  </picture>
+</div>
+
+<!-- Tips:
+- Replace your-portfolio.com with your real portfolio URL.
+- You can comment out any section you don’t want.
+- Keep images lightweight to reduce load time.
 -->
