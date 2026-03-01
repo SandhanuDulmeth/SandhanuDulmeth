@@ -88,9 +88,7 @@
 
 > **AI-powered chatbot using Google Gemini with Retrieval-Augmented Generation (RAG) for context-aware, intelligent responses**
 
-<a href="https://github.com/SandhanuDulmeth/gemini-rag-chatbot">
-  <img alt="Gemini RAG Chatbot" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=gemini-rag-chatbot&theme=tokyonight&hide_border=true" />
-</a>
+[![Gemini RAG Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=gemini-rag-chatbot&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/gemini-rag-chatbot)
 
 </div>
 
@@ -100,50 +98,25 @@
 
 <div align="center">
 
-**Row 1 — AI & Creative**
+**Row 1 — AI & Creative**<br>
+[![Gemini RAG Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=gemini-rag-chatbot&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/gemini-rag-chatbot)
+[![Windows XP-themed Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=Sandhanu-Dulmeth-Mendis-portfolio&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/Sandhanu-Dulmeth-Mendis-portfolio)
 
-<a href="https://github.com/SandhanuDulmeth/gemini-rag-chatbot">
-  <img height="140" alt="Gemini RAG Chatbot" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=gemini-rag-chatbot&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SandhanuDulmeth/Sandhanu-Dulmeth-Mendis-portfolio">
-  <img height="140" alt="Windows XP-themed Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=Sandhanu-Dulmeth-Mendis-portfolio&theme=tokyonight&hide_border=true" />
-</a>
+**Row 2 — Full-Stack Systems**<br>
+[![Inventory System Frontend](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=Inventory_System_Frontend-React-Vite&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/Inventory_System_Frontend-React-Vite)
+[![Inventory System Backend](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=Inventory_System_BackEnd-SpringBoot&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/Inventory_System_BackEnd-SpringBoot)
 
-**Row 2 — Full-Stack Systems**
+**Row 3 — Real-Time & MERN**<br>
+[![Angular Chat App Frontend](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=angular-chat-app-websocket-frontEnd&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/angular-chat-app-websocket-frontEnd)
+[![Angular Chat App Backend](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=angular-chat-app-websocket-backEnd&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/angular-chat-app-websocket-backEnd)
 
-<a href="https://github.com/SandhanuDulmeth/Inventory_System_Frontend-React-Vite">
-  <img height="140" alt="Inventory System Frontend (React/Vite)" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=Inventory_System_Frontend-React-Vite&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SandhanuDulmeth/Inventory_System_BackEnd-SpringBoot">
-  <img height="140" alt="Inventory System Backend (Spring Boot)" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=Inventory_System_BackEnd-SpringBoot&theme=tokyonight&hide_border=true" />
-</a>
+**Row 4 — Cloud & Education**<br>
+[![MERN techNotes Backend](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=MERN-techNotes-BackEnd&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/MERN-techNotes-BackEnd)
+[![Supabase To-Do App](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=supabase-todo&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/supabase-todo)
 
-**Row 3 — Real-Time & MERN**
-
-<a href="https://github.com/SandhanuDulmeth/angular-chat-app-websocket-frontEnd">
-  <img height="140" alt="Angular Chat App Frontend (WebSocket)" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=angular-chat-app-websocket-frontEnd&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SandhanuDulmeth/angular-chat-app-websocket-backEnd">
-  <img height="140" alt="Angular Chat App Backend (Spring Boot, WebSocket)" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=angular-chat-app-websocket-backEnd&theme=tokyonight&hide_border=true" />
-</a>
-
-**Row 4 — Cloud & Education**
-
-<a href="https://github.com/SandhanuDulmeth/MERN-techNotes-BackEnd">
-  <img height="140" alt="MERN techNotes Backend (Node.js, Express, MongoDB)" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=MERN-techNotes-BackEnd&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SandhanuDulmeth/supabase-todo">
-  <img height="140" alt="Supabase To-Do App (TypeScript)" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=supabase-todo&theme=tokyonight&hide_border=true" />
-</a>
-
-**Row 5 — Data Science & Web Dev**
-
-<a href="https://github.com/SandhanuDulmeth/Crop_Yield-Project">
-  <img height="140" alt="Crop Yield Prediction (Python, ML)" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=Crop_Yield-Project&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SandhanuDulmeth/IWT-NOTE-SITE">
-  <img height="140" alt="IWT Note Site (HTML/CSS/JS)" src="https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=IWT-NOTE-SITE&theme=tokyonight&hide_border=true" />
-</a>
+**Row 5 — Data Science & Web Dev**<br>
+[![Crop Yield Prediction](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=Crop_Yield-Project&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/Crop_Yield-Project)
+[![IWT Note Site](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=IWT-NOTE-SITE&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/IWT-NOTE-SITE)
 
 </div>
 
