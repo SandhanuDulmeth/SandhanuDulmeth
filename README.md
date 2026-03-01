@@ -139,21 +139,20 @@
 
 <div align="center">
 
-<img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SandhanuDulmeth&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" />
-<img height="165" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=SandhanuDulmeth&theme=tokyonight&hide_border=true" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandhanuDulmeth&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SandhanuDulmeth&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth)
 
 <br/>
 
-<img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandhanuDulmeth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandhanuDulmeth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/SandhanuDulmeth)
 
 </div>
 
 ---
 
 ## 🤝 Connect
-- LinkedIn: https://linkedin.com/in/sandhanu-mendis
-- Email: sandhanudulmeth@gmail.com
-
+- **LinkedIn:** [sandhanu-mendis](https://linkedin.com/in/sandhanu-mendis)
+- **Email:** [sandhanu.dulmeth.mendis@gmail.com](mailto:sandhanu.dulmeth.mendis@gmail.com)
 ---
 
 <!-- Contribution Snake (auto-updates from workflow) -->
