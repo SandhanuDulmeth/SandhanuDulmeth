@@ -16,7 +16,7 @@
 <a href="https://github.com/SandhanuDulmeth">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?logo=github&logoColor=white&style=for-the-badge" />
 </a>
-<a [href="https://github.com/SandhanuDulmeth/Sandhanu-Dulmeth-Mendis-portfolio](https://sandhanudulmeth.github.io/Sandhanu-Dulmeth-Mendis-portfolio/)">
+<a href="https://sandhanudulmeth.github.io/Sandhanu-Dulmeth-Mendis-portfolio/">
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4A90D9?logo=githubpages&logoColor=white&style=for-the-badge" />
 </a>
 
