@@ -40,7 +40,7 @@
 🤖  Also experienced with: Python · Machine Learning ·
     Google Gemini AI · RAG architecture
 
-🌱  Currently exploring: AI integration · cloud-native development
+🌱  Currently exploring: AI integration · cloud-native development · Docker
 
 💼  Open to: Backend / Full-Stack Software Engineering roles
 ```
@@ -72,6 +72,7 @@
 **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=websocket&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
@@ -126,6 +127,7 @@
 
 | Project | Tech | Description |
 |---------|------|-------------|
+| <a href="https://github.com/SandhanuDulmeth/docker-todolist">docker-todolist</a> | Docker | Containerised to-do list app demonstrating Docker fundamentals |
 | <a href="https://github.com/SandhanuDulmeth/Hospital-Management-System-JAVAFX">Hospital-Management-System-JAVAFX</a> | Java, JavaFX | Hospital management desktop app with layered architecture |
 | <a href="https://github.com/SandhanuDulmeth/Spring-Boot-Employee-Management-System-Back-End">Spring-Boot-Employee-Management-System-Back-End</a> | Java, Spring Boot | RESTful employee management API |
 | <a href="https://github.com/SandhanuDulmeth/MOS-Burgers-Back-End-SpringBoot">MOS-Burgers-Back-End-SpringBoot</a> | Java, Spring Boot | Restaurant ordering system backend |
