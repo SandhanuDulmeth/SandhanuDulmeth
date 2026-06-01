@@ -88,55 +88,46 @@
 
 ---
 
-## 🏆 Spotlight Project
+## 🏆 Featured Projects
 
-<div align="center">
-
-> **Production inventory management system for an auto parts business — React + TypeScript + Supabase, deployed on Vercel**
+### 🔥 Auto Parts Inventory System `DEPLOYED`
+> **Production system built for a real client** — dual-role access (Admin / Educator), PDF report exports, COGS analytics, inventory turnover, reorder suggestions, sales-by-brand breakdowns
 >
-> Features: dual-role access (Admin / Educator), PDF report exports, COGS analytics, inventory turnover, reorder suggestions, sales-by-brand breakdowns
+> `React` `TypeScript` `Tailwind CSS` `Supabase` `Vercel` `html2pdf.js`
 
-</div>
+### 🤖 AI & Creative
 
----
+| Project | Tech | What it does |
+|:--------|:-----|:-------------|
+| [**gemini-rag-chatbot**](https://github.com/SandhanuDulmeth/gemini-rag-chatbot) | `Python` `Google Gemini` `RAG` | AI chatbot with Retrieval-Augmented Generation for context-aware responses |
+| [**Sandhanu-Dulmeth-Mendis-portfolio**](https://github.com/SandhanuDulmeth/Sandhanu-Dulmeth-Mendis-portfolio) | `HTML` `CSS` `JavaScript` | Windows XP–themed developer portfolio |
+| [**Crop_Yield-Project**](https://github.com/SandhanuDulmeth/Crop_Yield-Project) | `Python` `Jupyter` `ML` | Crop yield prediction using data science & machine learning |
 
-## 📌 Featured Projects
+### ⚙️ Full-Stack & Backend Systems
 
-<div align="center">
-
-**AI & Creative**<br>
-[![Gemini RAG Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=gemini-rag-chatbot&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/gemini-rag-chatbot)
-[![Windows XP-themed Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=Sandhanu-Dulmeth-Mendis-portfolio&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/Sandhanu-Dulmeth-Mendis-portfolio)
-
-**Full-Stack Systems**<br>
-[![Inventory System Frontend](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=Inventory_System_Frontend-React-Vite&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/Inventory_System_Frontend-React-Vite)
-[![Inventory System Backend](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=Inventory_System_BackEnd-SpringBoot&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/Inventory_System_BackEnd-SpringBoot)
-
-**Real-Time & MERN**<br>
-[![Angular Chat App Frontend](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=angular-chat-app-websocket-frontEnd&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/angular-chat-app-websocket-frontEnd)
-[![Angular Chat App Backend](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=angular-chat-app-websocket-backEnd&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/angular-chat-app-websocket-backEnd)
-
-**Cloud & Data Science**<br>
-[![MERN techNotes Backend](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=MERN-techNotes-BackEnd&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/MERN-techNotes-BackEnd)
-[![Crop Yield Prediction](https://github-readme-stats.vercel.app/api/pin/?username=SandhanuDulmeth&repo=Crop_Yield-Project&theme=tokyonight&hide_border=true)](https://github.com/SandhanuDulmeth/Crop_Yield-Project)
-
-</div>
+| Project | Tech | What it does |
+|:--------|:-----|:-------------|
+| [**Inventory_System_Frontend-React-Vite**](https://github.com/SandhanuDulmeth/Inventory_System_Frontend-React-Vite) | `React` `Vite` `TypeScript` | Inventory management frontend with modern UI |
+| [**Inventory_System_BackEnd-SpringBoot**](https://github.com/SandhanuDulmeth/Inventory_System_BackEnd-SpringBoot) | `Java` `Spring Boot` | RESTful API backend for inventory management |
+| [**angular-chat-app-websocket-frontEnd**](https://github.com/SandhanuDulmeth/angular-chat-app-websocket-frontEnd) | `Angular` `TypeScript` `WebSocket` | Real-time chat app frontend |
+| [**angular-chat-app-websocket-backEnd**](https://github.com/SandhanuDulmeth/angular-chat-app-websocket-backEnd) | `Java` `Spring Boot` `WebSocket` | Real-time chat app backend with WebSocket |
+| [**MERN-techNotes-BackEnd**](https://github.com/SandhanuDulmeth/MERN-techNotes-BackEnd) | `Node.js` `Express` `MongoDB` | MERN stack notes management API |
+| [**supabase-todo**](https://github.com/SandhanuDulmeth/supabase-todo) | `React` `Supabase` | To-do app with real-time Supabase backend |
 
 ---
 
 ## 📂 Other Notable Projects
 
 | Project | Tech | Description |
-|---------|------|-------------|
-| [supabase-todo](https://github.com/SandhanuDulmeth/supabase-todo) | React, Supabase | To-do app with real-time Supabase backend |
-| [docker-todolist](https://github.com/SandhanuDulmeth/docker-todolist) | Docker | Containerised to-do list demonstrating Docker fundamentals |
-| [Hospital-Management-System-JAVAFX](https://github.com/SandhanuDulmeth/Hospital-Management-System-JAVAFX) | Java, JavaFX | Hospital management desktop app with layered architecture |
-| [Spring-Boot-Employee-Management-System-Back-End](https://github.com/SandhanuDulmeth/Spring-Boot-Employee-Management-System-Back-End) | Java, Spring Boot | RESTful employee management API |
-| [MOS-Burgers-Back-End-SpringBoot](https://github.com/SandhanuDulmeth/MOS-Burgers-Back-End-SpringBoot) | Java, Spring Boot | Restaurant ordering system backend |
-| [Mos-Burger-Front-End-Angular](https://github.com/SandhanuDulmeth/Mos-Burger-Front-End-Angular) | Angular, TypeScript | Restaurant ordering system frontend |
-| [Importance-of-DSA-in-programming-python](https://github.com/SandhanuDulmeth/Importance-of-DSA-in-programming-python) | Python | Data structures & algorithms implementations |
-| [maze-runner-GAME](https://github.com/SandhanuDulmeth/maze-runner-GAME) | JavaScript | Browser-based maze runner game |
-| [IWT-NOTE-SITE](https://github.com/SandhanuDulmeth/IWT-NOTE-SITE) | HTML, CSS, JS | Internet & Web Technologies study resource site |
+|:--------|:-----|:-------------|
+| [docker-todolist](https://github.com/SandhanuDulmeth/docker-todolist) | `Docker` | Containerised to-do list demonstrating Docker fundamentals |
+| [Hospital-Management-System-JAVAFX](https://github.com/SandhanuDulmeth/Hospital-Management-System-JAVAFX) | `Java` `JavaFX` | Hospital management desktop app with layered architecture |
+| [Spring-Boot-Employee-Management-System-Back-End](https://github.com/SandhanuDulmeth/Spring-Boot-Employee-Management-System-Back-End) | `Java` `Spring Boot` | RESTful employee management API |
+| [MOS-Burgers-Back-End-SpringBoot](https://github.com/SandhanuDulmeth/MOS-Burgers-Back-End-SpringBoot) | `Java` `Spring Boot` | Restaurant ordering system backend |
+| [Mos-Burger-Front-End-Angular](https://github.com/SandhanuDulmeth/Mos-Burger-Front-End-Angular) | `Angular` `TypeScript` | Restaurant ordering system frontend |
+| [Importance-of-DSA-in-programming-python](https://github.com/SandhanuDulmeth/Importance-of-DSA-in-programming-python) | `Python` | Data structures & algorithms implementations |
+| [maze-runner-GAME](https://github.com/SandhanuDulmeth/maze-runner-GAME) | `JavaScript` | Browser-based maze runner game |
+| [IWT-NOTE-SITE](https://github.com/SandhanuDulmeth/IWT-NOTE-SITE) | `HTML` `CSS` `JS` | Internet & Web Technologies study resource site |
 
 ---
 
