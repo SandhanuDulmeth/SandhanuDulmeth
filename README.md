@@ -50,14 +50,15 @@
     Unit Testing · Integration Testing · Git
 
 🐳  DevOps
-    Docker · Docker Compose
-    GitHub Actions · CI/CD
+    Docker · Docker Compose · Docker Hub Registry
+    GitHub Actions · CI/CD Pipelines (GitHub Actions)
     Linux · Git · GitHub
     Deployment & containerised applications
 
 ☁️  Cloud / Platforms
     Vercel · Supabase
     Currently exploring cloud-native development
+    and AWS (EC2, RDS, IAM)
 
 🗄️  Databases
     MySQL · PostgreSQL · MongoDB · Supabase
@@ -72,6 +73,7 @@
 
 🌱  Currently learning
     DevOps · CI/CD · Cloud Computing
+    AWS (EC2, RDS, IAM)
     Advanced Microservices · System Design
 
 💼  Open to
@@ -113,6 +115,7 @@
 ## 🐳 DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white\&style=flat-square)
+![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?logo=docker\&logoColor=white\&style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions\&logoColor=white\&style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black\&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white\&style=flat-square)
@@ -120,9 +123,13 @@
 
 **DevOps & Deployment**
 
-`Docker` · `Docker Compose` · `CI/CD` · `GitHub Actions`
+`Docker` · `Docker Compose` · `Docker Hub Registry` · `CI/CD Pipelines (GitHub Actions)`
 `Containerisation` · `Environment Configuration`
 `Service Orchestration` · `Build Automation` · `Linux`
+
+**Cloud (Exploring)**
+
+`AWS EC2` · `AWS RDS` · `AWS IAM`
 
 ---
 
@@ -171,7 +178,10 @@
 
 ## 🏗️ NexusEnroll — Microservices Student Enrollment Platform
 
-**Java · Spring Boot · Microservices · Docker · MySQL · Maven · JWT · Flyway · JUnit 5 · Mockito**
+[![NexusEnroll CI/CD Pipeline](https://github.com/SandhanuDulmeth/nexus-enroll2.0/actions/workflows/ci.yml/badge.svg)](https://github.com/SandhanuDulmeth/nexus-enroll2.0/actions/workflows/ci.yml)
+![Docker Hub](https://img.shields.io/badge/Docker%20Hub-sandhanu%2Fnexusenroll--api--gateway%3Alatest-2496ED?logo=docker\&logoColor=white\&style=flat-square)
+
+**Java · Spring Boot · Microservices · Docker · GitHub Actions · CI/CD · MySQL · Maven · JWT · Flyway · JUnit 5 · Mockito**
 
 A microservices-based university enrollment platform designed with independently deployable backend services.
 
@@ -218,6 +228,18 @@ A microservices-based university enrollment platform designed with independently
 * API Gateway routing
 * Database migrations using Flyway
 * Docker-based local environment
+* Automated CI/CD pipeline with GitHub Actions: every push or pull request runs the tests, builds the Docker image, and pushes it to Docker Hub
+
+### CI/CD & Docker Hub
+
+```text
+Image published on Docker Hub:
+sandhanu/nexusenroll-api-gateway:latest
+```
+
+```bash
+docker pull sandhanu/nexusenroll-api-gateway:latest
+```
 
 ### Testing
 
@@ -233,6 +255,7 @@ The project includes:
 
 `JUnit 5` · `Mockito` · `Spring MockMvc` · `API Integration Testing`
 `Docker Compose` · `Maven` · `Flyway` · `JWT` · `MySQL`
+`GitHub Actions` · `Docker Hub`
 
 🔗 **Repository:**
 https://github.com/SandhanuDulmeth/nexus-enroll2.0
@@ -298,10 +321,10 @@ https://github.com/SandhanuDulmeth/Inventory_System_BackEnd-SpringBoot
 
 # 🐳 DevOps & Infrastructure Projects
 
-| Project                                                                   | Technology                     | Description                                                 |
-| :------------------------------------------------------------------------ | :----------------------------- | :---------------------------------------------------------- |
-| [**nexus-enroll2.0**](https://github.com/SandhanuDulmeth/nexus-enroll2.0) | `Docker` `Spring Boot` `Maven` | Containerised microservices architecture                    |
-| [**docker-todolist**](https://github.com/SandhanuDulmeth/docker-todolist) | `Docker`                       | Containerised application demonstrating Docker fundamentals |
+| Project                                                                   | Technology                                            | Description                                                                                                                      |
+| :------------------------------------------------------------------------ | :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| [**nexus-enroll2.0**](https://github.com/SandhanuDulmeth/nexus-enroll2.0) | `Docker` `GitHub Actions` `CI/CD` `Spring Boot` `Maven` | Containerised microservices with an automated CI/CD pipeline (tests, Docker build) and image deployment to Docker Hub          |
+| [**docker-todolist**](https://github.com/SandhanuDulmeth/docker-todolist) | `Docker`                                              | Containerised application demonstrating Docker fundamentals                                                                      |
 
 ### DevOps Concepts I Have Worked With
 
@@ -320,9 +343,9 @@ API Gateway
         ↓
 Automated Testing
         ↓
-CI/CD Exploration
+CI/CD Pipeline (GitHub Actions)
         ↓
-Deployment
+Docker Hub Deployment
 ```
 
 ---
@@ -370,7 +393,22 @@ Test coverage includes authentication, courses, enrollment, faculty, academic re
 
 # 🔄 CI/CD & DevOps
 
-I am actively building my knowledge in modern DevOps workflows.
+I am actively building my knowledge in modern DevOps workflows. NexusEnroll already uses an automated pipeline.
+
+### NexusEnroll CI/CD Pipeline
+
+```text
+Code Push / Pull Request
+          ↓
+    GitHub Actions
+          ↓
+      Maven Tests
+          ↓
+      Docker Build
+          ↓
+ Docker Hub Registry
+(sandhanu/nexusenroll-api-gateway:latest)
+```
 
 ### Current Areas
 
@@ -387,6 +425,8 @@ Automated Tests
   ↓
 Docker Image
   ↓
+Docker Hub
+  ↓
 Deployment
 ```
 
@@ -395,7 +435,7 @@ Deployment
 `CI/CD Pipelines`
 `Docker & Containerisation`
 `Linux Administration`
-`Cloud Infrastructure`
+`Cloud Infrastructure (AWS EC2, RDS, IAM)`
 `Cloud Deployment`
 `Monitoring & Logging`
 `Infrastructure as Code`
@@ -432,7 +472,7 @@ CI/CD
         ↓
 Linux
         ↓
-Cloud Platforms
+Cloud Platforms (AWS: EC2, RDS, IAM)
         ↓
 Monitoring
         ↓
